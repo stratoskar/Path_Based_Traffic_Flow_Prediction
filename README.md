@@ -12,7 +12,7 @@ This repository is an extention of my thesis. You can find analytical informatio
 
 ## Dependencies
 
-To run the code in this repository, ensure you have the latest version of Python installed. The required libraries are listed [here](Necessary Python Libraries.txt). You can install them using pip or conda commands.
+To run the code in this repository, ensure you have the latest version of Python installed. The required libraries are listed [here](https://github.com/stratoskar/Traffic_Flow_Prediction/blob/main/Necessary%20Python%20Libraries.txt). You can install them using pip or conda commands.
 
 ## About Me
 My name is Efstratios Karkanis, and I am a 4th-grade student at the University of Piraeus. If you have any questions or would like to get in touch, feel free to reach out to me at stratoskarkanis2@gmail.com.
