@@ -1,10 +1,10 @@
 # Path Based Traffic Flow and PAth Crossing Time Prediction, using Strict Path Queries.
 
-This repository is an extention of my thesis. You can find analytical information about my thesis in this link: https://github.com/stratoskar/Traffic_Flow_Prediction/
+This repository is an extension of my thesis. You can find analytical information about my thesis [here](https://github.com/stratoskar/Traffic_Flow_Prediction/)
 
 ## Repository Overview
 
-- **Objective:** Forecast traffic flow in paths of San Francisco, California, using historical data. Also, using the same data, we are trying to find the future average crossing time per each path.
+- **Objective:** Forecast traffic flow in paths of San Francisco, California, using historical data. Also, using the same data, we are trying to find the future average crossing time per path.
 - **Methodology:** Time series forecasting using machine and deep learning models. We use the Strict Path Queries paper to measure traffic flow in each path accurately. Read more about SPQ methodology [here](Related_Work/Strict_Path_Queries.pdf).
 - **Data:** The process to generate the final dataset is described in the code file inside the Python_Code folder. The files have increment numbers that define the order of their execution.
 - **Number of Paths:** 1000 paths are used for making traffic forecasts.
