@@ -1,4 +1,4 @@
-# Path Based Traffic Flow and PAth Crossing Time Prediction, using Strict Path Queries.
+# Path-Based Traffic Flow and Path Crossing Time Prediction
 
 This repository is an extension of my thesis. You can find analytical information about my thesis [here](https://github.com/stratoskar/Traffic_Flow_Prediction/)
 
