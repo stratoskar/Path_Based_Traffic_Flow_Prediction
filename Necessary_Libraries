@@ -1,0 +1,50 @@
+#########################################################
+# Installing Necessary Libraries needed to run the code #
+# Last updated: 20 December 2023				#
+#########################################################
+
+Using pip:
+
+pip install os
+pip install json
+pip install random
+pip install requests
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install datetime
+pip install timedelta
+pip install IPython
+pip install warnings
+pip install scikit-learn
+pip install xgboost
+pip install MinMaxScaler
+pip install tensorflow
+pip install keras
+pip install joblib
+pip install osmnx
+
+*********************************************************
+
+Using Conda:
+
+conda install os
+conda install json
+conda install random
+conda install requests
+conda install numpy
+conda install pandas
+conda install matplotlib
+conda install seaborn
+conda install datetime
+conda install timedelta
+conda install IPython
+conda install warnings
+conda install scikit-learn
+conda install xgboost
+conda install MinMaxScaler
+conda install tensorflow
+conda install keras
+conda install -c conda-forge joblib
+conda install -c conda-forge osmnx
