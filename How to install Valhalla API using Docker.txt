@@ -1,0 +1,16 @@
+#####################################
+# How to RUN Valhalla API On Docker #
+#####################################
+
+In order to run Valhalla API on ubuntu using Docker, please follow the steps below:
+
+Step 1) Visit this website link: https://www.interline.io/osm/extracts/ . Click the "Subscribe to OSM Extracts" button and create an account.
+
+Step 2) Download the OSM file of the desired region in pbf.osm format.
+
+Step 3) Download docker software for ubuntu using this link: https://www.docker.com/products/docker-desktop/
+
+Step 4) Use the instructions mentioned in this link: https://gis-ops.com/valhalla-how-to-run-with-docker-on-ubuntu/,in order to install Valhalla inside a Docker container. Also, these instructions mention how to connect the OSM file with Valhalla Meili.
+
+Step 5) Create map matching requests to the Valhalla Server.
+
