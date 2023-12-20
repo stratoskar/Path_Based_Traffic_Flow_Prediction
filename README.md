@@ -6,7 +6,7 @@ This repository is an extention of my thesis. You can find analytical informatio
 
 - **Objective:** Forecast traffic flow in paths of San Francisco, California, using historical data. Also, using the same data, we are trying to find the future average crossing time per each path.
 - **Methodology:** Time series forecasting using machine and deep learning models. We use the Strict Path Queries paper to measure traffic flow in each path accurately. Read more about SPQ methodology [here](Related_Work/Strict_Path_Queries.pdf).
-- **Data:** The dataset consists of paths, each comprising consecutive edges representing road segments between intersections.
+- **Data:** The process to generate the final dataset is described in the code file inside the Python_Code folder. The files have increment numbers that define the order of their execution.
 - **Number of Paths:** 1000 paths are used for making traffic forecasts.
 - **Approach:** The problem is transformed into time series forecasting, with one time series for each path in the dataset.
 
