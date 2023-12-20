@@ -1,6 +1,6 @@
 #########################################################
 # Installing Necessary Libraries needed to run the code #
-# Last updated: 20 December 2023				#
+# Last updated: 20 December 2023				                #
 #########################################################
 
 Using pip:
