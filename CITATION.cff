@@ -12,7 +12,5 @@ date-released: 2024-01-08
 
 repository-code: https://github.com/stratoskar/Path_Based_Traffic_Flow_Prediction
 
-license: License-Identifier
-
 tags:
   - Machine Learning, Time Series Forecasting, XGBoost, Traffic Flow Prediction
