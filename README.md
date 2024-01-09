@@ -1,6 +1,6 @@
 # Path-Based Traffic Flow Prediction
 
-This repository is the Paper Ready version of my thesis. You can find analytical information about my thesis [here](https://github.com/stratoskar/Traffic_Flow_Prediction/)
+This repository contains the code files produces during an extensive research in the field of Big Data Mobility Analytics.
 
 ## Repository Overview
 
