@@ -1,13 +1,13 @@
-# Path-Based Traffic Flow Prediction
+# Path-based traffic flow prediction
 
-This repository contains the code files produces during an extensive research in the field of Big Data Mobility Analytics.
+This repository contains the code files produced during an extensive research in the field of mobility data analytics.
 
-## Repository Overview
+## Repository overview
 
 - **Objective:** We are trying to predict the forthcoming traffic flow volume for specific routes within San Francisco, California, leveraging insights gleaned from historical data.
-- **Methodology:** We perform time series forecasting using machine and deep learning models. We use the Strict Path Queries paper to measure traffic flow in each path accurately.
-- **Data:** We use traffic flow data of Yellow Taxis that are moving within the city or San Francisco, California. We use this original dataset to generate the final time series data. We enrich the final dataset with weather data. This entire process is described in the notebook files inside the Python_Code folder. Notebooks have increment numbers that define the order of their execution.
-- **Number of Paths:** A total of 1000 paths (routes) are used for conducting forecasts.
+- **Methodology:** We perform time series forecasting using machine and deep learning models. We use the Strict Path Queries algorithm to measure traffic flow in each path accurately.
+- **Data:** We use traffic flow data of Yellow Taxis that are moving within the city or San Francisco, California. We use this original dataset to generate the final time series data.  This entire process is described in the Jupyter notebook files inside the Python_Code folder. Notebooks have increment numbers that define the order of their execution.
+- **Number of Paths:** A total of 100 paths (or pathways) are used for conducting forecasts.
   
 ## Dependencies
 
