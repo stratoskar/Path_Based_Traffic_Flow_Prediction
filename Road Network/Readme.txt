@@ -1,0 +1,1 @@
+The road network of San Francisco area is generated through OSMNX Python library and saved in this directory.
