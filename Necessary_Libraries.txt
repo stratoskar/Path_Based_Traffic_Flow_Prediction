@@ -1,7 +1,6 @@
-#########################################################
-# Installing Necessary Libraries needed to run the code #
-# Last updated: 20 December 2023				                #
-#########################################################
+#####
+Installing Necessary Libraries needed to run the code. Last updated: 20 December 2023
+#####
 
 Using pip:
 
@@ -25,7 +24,6 @@ pip install keras
 pip install joblib
 pip install osmnx
 
-*********************************************************
 
 Using Conda:
 
