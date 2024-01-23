@@ -1,6 +1,6 @@
-#####################################
-# How to RUN Valhalla API On Docker #
-#####################################
+#####
+How to RUN Valhalla API On Docker 
+#####
 
 In order to run Valhalla API on ubuntu using Docker, please follow the steps below:
 
